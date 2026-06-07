@@ -1,0 +1,11 @@
+{
+  "name": "wss-http-proxy",
+  "version": "1.0.0",
+  "main": "proxy_server.js",
+  "scripts": {
+    "start": "node proxy_server.js"
+  },
+  "dependencies": {
+    "ws": "^8.16.0"
+  }
+}
